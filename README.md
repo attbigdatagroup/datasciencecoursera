@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera JHU Data Science Certification
+John's Hopkins Data Scientist Toolbox assignment
